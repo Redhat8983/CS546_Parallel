@@ -1,4 +1,4 @@
-Modify 2D-FFT( Fast Fourier Transform) and implemented by 4 different  parallelization  techniques  and  models.
+Modify 2D-FFT( Fast Fourier Transform) and implemented by 4 different  palatalization techniques  and  models.
 Include SPMD( single program, multiple data) model and Task and Data Parallel model with parallel code.
 (a) Implement the 2D convolution using SPMD model and use MPI send and receive operations. 
 (b) Implement 2D convolution using SPMD model but use MPI collective communication functions wherever possible.

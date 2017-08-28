@@ -1,1 +1,1 @@
-Use Pthreads & openMP to implement Gaussian Elimination with shared memeroy paralled algorithm.
+Use Pthreads & openMP to implement Gaussian Elimination with shared memory parallel algorithm.
